@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Abdelrahman%20Tony&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Engineer%20%7C%20Co-founder%20%40%20SolidPoint.ai&descSize=16&descAlignY=55&descColor=a78bfa" width="100%"/>
+<h1 align="center">Hi there 👋, I'm Abdelrahman Tony</h1>
+<h3 align="center">Data Science & AI Engineer | Co-founder @ SolidPoint.ai</h3>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Automating+the+Future+with+AI+%F0%9F%9A%80;From+Data+to+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=50&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Automating+the+Future+with+AI+%F0%9F%9A%80;From+Data+to+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/>
