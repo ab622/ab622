@@ -22,9 +22,7 @@
 <br/>
 
 <!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120" />
+## 👨‍💻 About Me
 
 ```yaml
 name: Abdelrahman Ali Ahmed Tony
@@ -49,7 +47,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- Experience Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> &nbsp;Experience
+## 💼 Experience
 
 <table>
 <tr>
@@ -104,7 +102,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- Tech Stack Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -154,7 +152,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- Certificates Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Certifications
+## 🏆 Certifications
 
 <div align="center">
 <table>
@@ -192,7 +190,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- Featured Projects Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -238,7 +236,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- GitHub Stats Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ab622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=a78bfa&text_color=c9d1d9&ring_color=6c63ff" alt="GitHub Stats"/>
@@ -264,7 +262,7 @@ fun_fact: "I don't just train models — I build the pipelines that deploy them 
 ---
 
 <!-- Connect Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:abdelrahman.ali@ci.aru.edu.eg">
