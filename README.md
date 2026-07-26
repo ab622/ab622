@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=180&section=header&text=Abdelrahman%20Tony&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Co-founder%20%40%20SolidPoint.ai&descSize=16&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<h1 align="center">☁️ Abdelrahman Tony</h1>
+<h3 align="center">Cloud & DevOps Engineer | Co-founder @ SolidPoint.ai</h3>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Cloud+Architectures+%E2%98%81%EF%B8%8F;Automating+CI%2FCD+Pipelines+%F0%9F%9A%80;Designing+Microservices+%26+API+Gateways+%F0%9F%94%A7;Leading+Teams+%26+Shipping+Products+%F0%9F%8E%AF" alt="Typing SVG" />
-</a>
+<p align="center">
+  <i>Building Scalable Cloud Architectures ☁️ • Automating CI/CD Pipelines 🚀 • Designing Microservices 🔧</i>
+</p>
 
 <br/>
 
