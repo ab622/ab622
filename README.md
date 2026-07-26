@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=ab622&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ab622.ab622&left_color=1a1b27&right_color=6c63ff&left_text=PROFILE%20VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/ab622?tab=followers">
   <img src="https://img.shields.io/github/followers/ab622?style=for-the-badge&color=6c63ff&labelColor=1a1b27&logo=github" alt="Followers"/>
